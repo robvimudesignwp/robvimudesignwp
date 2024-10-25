@@ -6,7 +6,10 @@ Desarrollador apasionado por el código limpio y las soluciones creativas en sof
 
 ## 🛠 Tecnologías y Herramientas
 <div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <svg width="40" height="40" viewBox="0 0 64 64">
+        <path fill="#f7df1e" d="M0 0h64v64H0z"/>
+        <path fill="#323330" d="M38.7 47.4c.8 1.7 1.8 3 3.7 3 1.6 0 2.6-.8 2.6-2 0-1.4-.8-1.8-2.8-2.6l-1-.4c-2.9-1.2-4.8-2.7-4.8-5.9 0-2.9 2.2-5.1 5.7-5.1 2.5 0 4.4.9 5.7 3.2l-3.1 2c-.7-1.4-1.4-2-2.6-2-1.2 0-2 .8-2 1.8 0 1.3.8 1.7 2.8 2.5l1 .4c3.5 1.5 5.4 2.9 5.4 6.1 0 3.5-2.8 5.4-6.5 5.4-3.7 0-6-1.8-7.1-4.1zm-13.3.4c.5 1 1 1.9 2.1 1.9 1 0 1.7-.4 1.7-2V27h3.4v20.5c0 3.5-2 5.1-4.8 5.1-2.6 0-4.2-1.6-5-3.2z"/>
+    </svg>
   </a>
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
