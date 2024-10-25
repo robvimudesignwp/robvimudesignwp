@@ -2,7 +2,6 @@
 
 Soy Diseñador Gráfico y Desarrollador Web, apasionado por el mundo de la tecnología, me encanta poder dar forma a muchas ídeas, soy investigativo, permanezco en constante aprendizaje, soy resolutivo y contribuyo con los demás.
 
----
 
 ## 🛠 Competencias
 <div>
@@ -16,7 +15,6 @@ Soy Diseñador Gráfico y Desarrollador Web, apasionado por el mundo de la tecno
     <!-- Añade más iconos SVG según tus tecnologías -->
 </div>
 
----
 
 ## 📫 Conéctate conmigo
 <p>
@@ -25,7 +23,6 @@ Soy Diseñador Gráfico y Desarrollador Web, apasionado por el mundo de la tecno
     <!-- Añade otros iconos de redes sociales -->
 </p>
 
----
 
 ¡Gracias por visitar mi perfil! 😊
 
