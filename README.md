@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Robert Villano Muñoz]
 
-Soy Diseñador Gráfico y Desarrollador Web, apasionado por el mundo de la tecnología, me encanta poder dar forma a muchas ídeas, soy investigativo, permanezco en constante aprendizaje, soy resolutivo y contribuyo con los demás.
+Soy Diseñador Gráfico y Desarrollador Web, apasionado por el mundo de la tecnología, me encanta poder dar forma a muchas ídeas, soy investigativo y resolutivo, permanezco en constante aprendizaje.
 
 
 ## 🛠 Competencias
